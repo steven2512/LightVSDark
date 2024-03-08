@@ -8,7 +8,7 @@ mode.addEventListener('click', function () {
     }
     else {
         document.body.style.backgroundImage = "url('https://wallpaperaccess.com/full/676037.jpg')";
-        mode.firstChild.innerText = "Light"
+        mode.firstChild.innerText = "Dark"
         dark = true
     }
 
